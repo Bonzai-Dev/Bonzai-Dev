@@ -1,1 +1,2 @@
 - average computer nerd
+- subscribe to my youtube: https://www.youtube.com/channel/UCsVszaGE_CGRBjLlQwIYgnA
