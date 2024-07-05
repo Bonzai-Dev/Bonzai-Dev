@@ -1,2 +1,6 @@
-- average computer nerd
-- subscribe to my youtube: https://www.youtube.com/channel/UCsVszaGE_CGRBjLlQwIYgnA
+- Python
+- Lua
+- C#
+- Web developer, probably
+- Game developer
+- Anyways, subscribe to my YouTube: https://www.youtube.com/channel/UCsVszaGE_CGRBjLlQwIYgnA
